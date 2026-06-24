@@ -31,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/0070-climbing-stairs) |
+## Array
+|  |
+| ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
+## Stack
+|  |
+| ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->

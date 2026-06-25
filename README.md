@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Stack
 |  |
@@ -43,4 +44,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

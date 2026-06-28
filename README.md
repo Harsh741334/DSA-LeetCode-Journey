@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0263-ugly-number](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/0263-ugly-number) |
 ## Dynamic Programming
 |  |
 | ------- |

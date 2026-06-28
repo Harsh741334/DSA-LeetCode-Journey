@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Stack
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/0700-search-in-a-binary-search-tree) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->

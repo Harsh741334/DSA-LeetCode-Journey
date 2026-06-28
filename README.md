@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0303-range-sum-query-immutable](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/0303-range-sum-query-immutable) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Stack
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/0136-single-number) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Harsh741334/DSA-LeetCode-Journey/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
